@@ -394,7 +394,7 @@ else:
             <div class="priority-pill {pill_class}">{top["Priority Level"]} Priority</div>
             <p style="margin-top: 16px;">
                 Due in <b>{top["Days Left"]} day(s)</b> · Recommended work:
-                <b>{top["Recommended Daily Hours']} hrs/day</b> · Score:
+                <b>{top["Recommended Daily Hours"]} hrs/day</b> · Score:
                 <b>{top["Priority Score"]}</b>
             </p>
         </div>
